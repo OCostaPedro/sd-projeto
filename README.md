@@ -15,33 +15,10 @@ Uma aplicação web front-end minimalista com HTML, CSS e JavaScript. Este repos
 - Comportamento e interações em `script.js`.
 - Imagens e ativos em `img/`.
 
-## Preview
-
-Adicione um screenshot dentro da pasta `img/` (por exemplo `img/preview.png`) e inclua-o aqui para uma visualização rápida.
-
 ## Requisitos
 
 - Qualquer navegador moderno (Chrome, Edge, Firefox, Safari).
-
-## Instalação & Uso
-
-1. Clone este repositório:
-
-```
-git clone https://github.com/OCostaPedro/sd-projeto.git
-cd sd-projeto
-```
-
-2. Abra `index.html` no navegador (duplo clique ou arraste para uma janela do navegador).
-
-Alternativamente, você pode servir o projeto com um servidor estático para desenvolvimento:
-
-```
-# Exemplo com Python 3
-python -m http.server 8000
-# Depois abra http://localhost:8000
-```
-
+- 
 ## Estrutura do projeto
 
 - `index.html` - Página principal
@@ -56,26 +33,14 @@ python -m http.server 8000
 - Edite `script.js` para alterar comportamento e interações.
 - Teste no navegador e verifique a pasta `img/` para imagens usadas.
 
-## Contribuição
+## Autores
 
-Contribuições são bem-vindas. Abra uma issue para discutir mudanças grandes e envie pull requests com descrições claras das alterações.
-
-Padrões sugeridos:
-- Fork -> branch -> commit com mensagens descritivas -> pull request.
-
-## Licença
-
-Este projeto está disponível sob a licença MIT — sinta-se livre para usar, modificar e distribuir.
-
-## Autor
-
-OCostaPedro — mantenha contato pelo GitHub.
+Pedro Costa
+Renato Câmara
+Tarcisio Wanderley
+Henrique Veloso
+João Durão
+Caique Assunção
+Luis Felix
 
 ---
-
-Se quiser, posso também:
-- Adicionar um badge dinâmico ao topo (build/licença).
-- Incluir uma screenshot real em `img/` e mostrar no README.
-- Adicionar um `index.html` demo mais completo ou instruções de deploy.
-
-Diga o que prefere que eu faça em seguida.
